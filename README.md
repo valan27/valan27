@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/@valanantony3" target="blank"><img src="https://img.shields.io/twitter/follow/@valanantony3?logo=twitter&style=for-the-badge" alt="@valanantony3" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce website(GOJO)**
+- 🔭 I’m currently working on **Ecommerce website (Y Shoppe)**
 
 - 🌱 I’m currently learning **Fullstack development**
 
